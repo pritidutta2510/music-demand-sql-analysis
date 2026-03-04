@@ -21,5 +21,17 @@ Transactional sales dataset containing customer purchases, genres and revenue me
 
 # Outcome
 The analysis provides insights for pricing optimisation, inventory management, and targeted marketing strategies.
-The project also serves as a practical learning resource for understanding the fundamentals of SQL, 
-making it useful for educational purposes, such as placement preparation and building a strong foundation in SQL.
+
+# Dataset Usage
+This repository includes a full transactional dataset that can be used for practicing SQL queries and building dashboards.
+This dataset is intended for educational use, including SQL practice, analytics training, and interview or placement preparation.
+
+# Suggested workflow for learners:
+- Import the dataset into a SQL database (MySQL, PostgreSQL, or SQLite).
+- Use the schema file to create the table structure.
+- Run the SQL queries in the sql_queries folder to explore demand patterns.
+- Use the dataset to build dashboards or perform further analysis.
+
+
+
+
