@@ -1,0 +1,10 @@
+employee_id,last_name,first_name,title,reports_to,levels,birthdate,hire_date,city,postal_code,email
+1,Adams,Andrew,General Manager,9,L6,1962-02-18,2016-08-14,Edmonton,T5K 2N1,andrew@chinookcorp.com
+2,Edwards,Nancy,Sales Manager,1,L4,1958-12-08,2016-05-01,Calgary,T2P 2T3,nancy@chinookcorp.com
+3,Peacock,Jane,Sales Support Agent,2,L1,1973-08-29,2017-04-01,Calgary,T2P 5M5,jane@chinookcorp.com
+4,Park,Margaret,Sales Support Agent,2,L1,1947-09-19,2017-05-03,Calgary,T2P 5G3,margaret@chinookcorp.com
+5,Johnson,Steve,Sales Support Agent,2,L1,1965-03-03,2017-10-17,Calgary,T3B 1Y7,steve@chinookcorp.com
+6,Mitchell,Michael,IT Manager,1,L3,1973-07-01,2016-10-17,Calgary,T3B 0C5,michael@chinookcorp.com
+7,King,Robert,IT Staff,6,L2,1970-05-29,2017-01-02,Lethbridge,T1K 5N8,robert@chinookcorp.com
+8,Callahan,Laura,IT Staff,6,L2,1968-01-09,2017-03-04,Lethbridge,T1H 1Y8,laura@chinookcorp.com
+9,Madan,Mohan,Senior General Manager,,L7,1961-01-26,2016-01-14,Edmonton,T5K 2N1,madan.mohan@chinookcorp.com
