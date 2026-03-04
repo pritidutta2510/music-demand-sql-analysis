@@ -4,9 +4,7 @@
 This project analyses transactional data from a music retail business to identify demand patterns across genres and customer segments.
 
 # Tools Used
-SQL    
-Excel
-Power BI
+SQL    Excel    Power BI
 
 # Dataset
 Transactional sales dataset containing customer purchases, genres and revenue metrics.
