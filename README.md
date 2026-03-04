@@ -6,7 +6,6 @@ This project analyses transactional data from a music retail business to identif
 # Tools Used
 SQL    
 Excel
-
 Power BI
 
 # Dataset
