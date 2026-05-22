@@ -28,7 +28,7 @@ This repository includes a full transactional dataset that can be used for pract
 This dataset is intended for educational use, including SQL practice, analytics training, and interview or placement preparation.
 
 # Dashboard Preview
-
+<img width="1325" height="747" alt="PowerBI Dashboard" src="https://github.com/user-attachments/assets/4500e1d0-b42e-400a-ab09-ac200f3cf0c6" />
 
 # Suggested workflow for learners:
 - Import the CSV files into any SQL environment (MySQL, PostgreSQL, or SQLite)
