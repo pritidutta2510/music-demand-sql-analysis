@@ -32,6 +32,6 @@ This dataset is intended for educational use, including SQL practice, analytics 
 
 # Suggested workflow for learners:
 - Import the CSV files into any SQL environment (MySQL, PostgreSQL, or SQLite)
-- Use the schema diagram to recreate table relationships
 - Run `Music_Demand_Analysis.sql` to replicate the analysis
+- Use the schema diagram to recreate table relationships
 - Open the `.pbix` file in Power BI Desktop to explore the dashboard
